@@ -1,0 +1,367 @@
+[
+    {
+      "name": "Bukhara",
+      "cuisine": "Indian",
+      "address": "ITC Maurya, Sardar Patel Marg, Chanakyapuri, New Delhi",
+      "city": "Delhi",
+      "reviews": [],
+      "menu": [
+        {
+          "name": "Tandoori Chicken",
+          "price": 525,
+          "description": "Juicy chicken marinated in Indian spices and cooked in a tandoor",
+          "isVeg": false
+        },
+        {
+          "name": "Dal Makhani",
+          "price": 325,
+          "description": "Lentils slow-cooked with butter and cream",
+          "isVeg": true
+        },
+        {
+          "name": "Paneer Tikka",
+          "price": 425,
+          "description": "Chunks of paneer marinated in spices and grilled",
+          "isVeg": true
+        }
+      ],
+      "averageRating": 4.5
+    },
+    {
+      "name": "Karavalli",
+      "cuisine": "Mediterranean",
+      "address": "The Gateway Hotel, 66, Residency Road, Bangalore",
+      "city": "Bangalore",
+      "reviews": [],
+      "menu": [
+        {
+          "name": "Masala Dosa",
+          "price": 150,
+          "description": "Crispy crepe filled with spiced potato filling",
+          "isVeg": true
+        },
+        {
+          "name": "Fish Curry",
+          "price": 450,
+          "description": "Fresh fish cooked in a tangy coconut-based gravy",
+          "isVeg": false
+        },
+        {
+          "name": "Mangalorean Chicken Curry",
+          "price": 375,
+          "description": "Chicken curry with traditional Mangalorean spices",
+          "isVeg": false
+        }
+      ],
+      "averageRating": 4.3
+    },
+    {
+      "name": "Peshawri",
+      "cuisine": "American",
+      "address": "ITC Maratha, Sahar Road, Andheri East, Mumbai",
+      "city": "Mumbai",
+      "reviews": [],
+      "menu": [
+        {
+          "name": "Sikandari Raan",
+          "price": 850,
+          "description": "Whole leg of lamb marinated in spices and slow-cooked",
+          "isVeg": false
+        },
+        {
+          "name": "Paneer Khurchan",
+          "price": 475,
+          "description": "Paneer cooked with onions, tomatoes, and bell peppers",
+          "isVeg": true
+        },
+        {
+          "name": "Dal Bukhara",
+          "price": 375,
+          "description": "Creamy black lentils simmered overnight with spices",
+          "isVeg": true
+        }
+      ],
+      "averageRating": 4.4
+    },
+    {
+      "name": "Indian Accent",
+      "cuisine": "Chinese",
+      "address": "The Lodhi, Lodhi Road, New Delhi",
+      "city": "Delhi",
+      "reviews": [],
+      "menu": [
+        {
+          "name": "Ghee Roast Lamb",
+          "price": 725,
+          "description": "Lamb marinated in spices and cooked in ghee",
+          "isVeg": false
+        },
+        {
+          "name": "Tandoori Mushroom",
+          "price": 425,
+          "description": "Mushrooms marinated in yogurt and spices, cooked in tandoor",
+          "isVeg": true
+        },
+        {
+          "name": "Butter Chicken",
+          "price": 625,
+          "description": "Tender chicken cooked in a creamy tomato-based sauce",
+          "isVeg": false
+        }
+      ],
+      "averageRating": 4.6
+    },
+    {
+      "name": "Dum Pukht",
+      "cuisine": "Italian",
+      "address": "ITC Maurya, Sardar Patel Marg, Chanakyapuri, New Delhi",
+      "city": "Delhi",
+      "reviews": [],
+      "menu": [
+        {
+          "name": "Dum Biryani",
+          "price": 650,
+          "description": "Fragrant rice cooked with meat or vegetables in a sealed pot",
+          "isVeg": false
+        },
+        {
+          "name": "Kofta Curry",
+          "price": 425,
+          "description": "Vegetable or meat balls in a rich and creamy gravy",
+          "isVeg": true
+        },
+        {
+          "name": "Kebab Platter",
+          "price": 750,
+          "description": "Assorted kebabs served with mint chutney",
+          "isVeg": false
+        }
+      ],
+      "averageRating": 4.3
+    },
+    {
+      "name": "Farzi Café",
+      "cuisine": "Japanese",
+      "address": "Cyber Hub, DLF Cyber City, Gurgaon",
+      "city": "Delhi",
+      "reviews": [],
+      "menu": [
+        {
+          "name": "Dal Chawal Arancini",
+          "price": 375,
+          "description": "Fried risotto balls stuffed with dal and served with chutney",
+          "isVeg": true
+        },
+        {
+          "name": "Butter Chicken Bao",
+          "price": 450,
+          "description": "Soft bao buns filled with butter chicken and pickled onions",
+          "isVeg": false
+        },
+        {
+          "name": "Tandoori Raan",
+          "price": 850,
+          "description": "Leg of lamb marinated in yogurt and spices, cooked in tandoor",
+          "isVeg": false
+        }
+      ],
+      "averageRating": 4.2
+    },
+    {
+      "name": "Toast & Tonic",
+      "cuisine": "Mexican",
+      "address": "14/31, 1st Floor, Wood Street, Ashok Nagar, Bangalore",
+      "city": "Bangalore",
+      "reviews": [],
+      "menu": [
+        {
+          "name": "Smoked Salmon Tartine",
+          "price": 375,
+          "description": "Sliced smoked salmon on toasted bread with cream cheese",
+          "isVeg": false
+        },
+        {
+          "name": "Beetroot Carpaccio",
+          "price": 250,
+          "description": "Thinly sliced beetroot with arugula and goat cheese",
+          "isVeg": true
+        },
+        {
+          "name": "Truffle Fries",
+          "price": 200,
+          "description": "Crispy fries tossed in truffle oil and parmesan cheese",
+          "isVeg": true
+        }
+      ],
+      "averageRating": 4.1
+    },
+    {
+      "name": "The Black Pearl",
+      "cuisine": "Spanish",
+      "address": "67, 15th Cross Road, Malleshwaram, Bangalore",
+      "city": "Bangalore",
+      "reviews": [],
+      "menu": [
+        {
+          "name": "Chicken Wings",
+          "price": 350,
+          "description": "Crispy chicken wings tossed in barbecue sauce",
+          "isVeg": false
+        },
+        {
+          "name": "Cheese Burst Pizza",
+          "price": 300,
+          "description": "Pizza loaded with cheese in every bite",
+          "isVeg": true
+        },
+        {
+          "name": "Fish Tacos",
+          "price": 400,
+          "description": "Soft tacos filled with crispy fish, slaw, and salsa",
+          "isVeg": false
+        }
+      ],
+      "averageRating": 4.0
+    },
+    {
+      "name": "Villa Maya",
+      "cuisine": "Thai",
+      "address": "13th Floor, Barton Centre, 84, MG Road, Bangalore",
+      "city": "Bangalore",
+      "reviews": [],
+      "menu": [
+        {
+          "name": "Avocado Salad",
+          "price": 200,
+          "description": "Fresh avocado slices with mixed greens and citrus dressing",
+          "isVeg": true
+        },
+        {
+          "name": "Beef Stroganoff",
+          "price": 450,
+          "description": "Tender beef strips cooked in a creamy mushroom sauce",
+          "isVeg": false
+        },
+        {
+          "name": "Stuffed Mushrooms",
+          "price": 300,
+          "description": "Mushroom caps filled with herbed cream cheese and baked",
+          "isVeg": true
+        }
+      ],
+      "averageRating": 4.3
+    },
+    {
+      "name": "Olive Beach",
+      "cuisine": "Greek",
+      "address": "16, Wood Street, Ashok Nagar, Bangalore",
+      "city": "Bangalore",
+      "reviews": [],
+      "menu": [
+        {
+          "name": "Seafood Paella",
+          "price": 600,
+          "description": "Traditional Spanish rice dish with assorted seafood",
+          "isVeg": false
+        },
+        {
+          "name": "Caprese Salad",
+          "price": 250,
+          "description": "Tomato, mozzarella, and basil salad drizzled with balsamic glaze",
+          "isVeg": true
+        },
+        {
+          "name": "Prawn Cocktail",
+          "price": 400,
+          "description": "Chilled prawns served with cocktail sauce and lemon wedge",
+          "isVeg": false
+        }
+      ],
+      "averageRating": 4.2
+    },
+    {
+      "name": "The Fisherman's Wharf",
+      "cuisine": "Other",
+      "address": "26, Opposite Panambur Beach, Gurupura, Mangalore",
+      "city": "Mangalore",
+      "reviews": [],
+      "menu": [
+        {
+          "name": "Crab Masala",
+          "price": 550,
+          "description": "Crab cooked in a spicy masala gravy",
+          "isVeg": false
+        },
+        {
+          "name": "Vegetable Biryani",
+          "price": 300,
+          "description": "Fragrant rice cooked with mixed vegetables and spices",
+          "isVeg": true
+        },
+        {
+          "name": "Prawn Ghee Roast",
+          "price": 600,
+          "description": "Prawns cooked in a fiery ghee-based masala",
+          "isVeg": false
+        }
+      ],
+      "averageRating": 4.1
+    },
+    {
+      "name": "The Rice Boat",
+      "cuisine": "Other",
+      "address": "Vivanta by Taj, Willingdon Island, Kochi",
+      "city": "Kochi",
+      "reviews": [],
+      "menu": [
+        {
+          "name": "Fish Moilee",
+          "price": 450,
+          "description": "Fish cooked in a coconut milk and spice gravy",
+          "isVeg": false
+        },
+        {
+          "name": "Vegetable Stew",
+          "price": 250,
+          "description": "Assorted vegetables cooked in a coconut milk broth",
+          "isVeg": true
+        },
+        {
+          "name": "Prawn Pulao",
+          "price": 550,
+          "description": "Fragrant rice cooked with prawns and spices",
+          "isVeg": false
+        }
+      ],
+      "averageRating": 4.0
+    },
+    {
+      "name": "The Oberoi Amarvilas",
+      "cuisine": "Other",
+      "address": "Taj East Gate Road, Agra",
+      "city": "Agra",
+      "reviews": [],
+      "menu": [
+        {
+          "name": "Petha",
+          "price": 150,
+          "description": "Sweet made from ash gourd, flavored with saffron",
+          "isVeg": true
+        },
+        {
+          "name": "Tandoori Chicken",
+          "price": 375,
+          "description": "Juicy chicken marinated in spices and cooked in a tandoor",
+          "isVeg": false
+        },
+        {
+          "name": "Paneer Tikka",
+          "price": 425,
+          "description": "Chunks of paneer marinated in spices and grilled",
+          "isVeg": true
+        }
+      ],
+      "averageRating": 4.2
+    }
+  ]
+  
