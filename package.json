@@ -4,6 +4,7 @@
   "description": "A Node.js project which contains the APIs for a restaurant discovery app",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon ./index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
